@@ -5,6 +5,8 @@
 % Evan W. Carr (Columbia Business School)
 % Last updated: 12.12.2016 
 
+% This script was adapted from code provided by Scott Freeman (https://www.scottmfreeman.com/).
+
 %% START EXPERIMENT AND GATHER INFO:
 clear;
 close all;
